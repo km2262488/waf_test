@@ -9,4 +9,4 @@
     
     cd waf_test
 
-    go run waf_test.go -url https://www.myweb.com -proxy-url LINK
+    
